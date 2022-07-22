@@ -1,3 +1,4 @@
 <?php
-echo "hh"
+echo "Benjarat Muangsan"
+echo "Bua"
 ?>
